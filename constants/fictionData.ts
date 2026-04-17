@@ -1,0 +1,1 @@
+export const FICTION_GENRE_DNA: any = {};
